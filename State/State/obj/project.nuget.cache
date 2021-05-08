@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sGe1zCQ/Xq4dAci431hrHn9Z4gcQCzM3ziDE3nZrMxJF57ojTcMgEEY2DxCgnsGdifkUvIW9agQOu5IN+tvuIw==",
+  "success": true,
+  "projectFilePath": "/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronComportamiento/State/State/State.csproj",
+  "expectedPackageFiles": [
+    "/Users/ricky/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
