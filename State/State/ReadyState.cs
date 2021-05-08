@@ -5,7 +5,7 @@ namespace State
     {
         public void HandleOperation(Cook cookContext)
         {
-            Console.WriteLine("Cooker is Ready.");
+            Console.WriteLine("Cook is Ready.");
         }
     }
 }
